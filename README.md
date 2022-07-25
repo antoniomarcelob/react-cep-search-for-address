@@ -1,7 +1,7 @@
 
 # react-cep-search-for-address
 
-Cep search build with react
+Cep search coded with react
 
 
 ## Run instructions:
